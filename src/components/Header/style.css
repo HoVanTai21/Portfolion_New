@@ -1,0 +1,28 @@
+.btn-41:after {
+  position: absolute;
+  content: "";
+  width: 0;
+  height: 10%;
+  bottom: 0;
+  right: 0;
+  direction: rtl;
+  z-index: -1;
+  background: rgb(139, 138, 138);
+  transition: all 0.3s ease;
+}
+
+.btn-41:hover:after {
+  right: auto;
+  left: 0;
+  width: 100%;
+}
+
+.btn-41:active {
+  top: 2px;
+}
+.max-w-8xl {
+  max-width: 1460px;
+}
+/* nav {
+  background: linear-gradient(to bottom, rgb(168, 204, 211));
+} */

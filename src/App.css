@@ -1,0 +1,13 @@
+#root {
+  /* background: linear-gradient(
+    to bottom,
+    rgb(168, 204, 211),
+    rgb(238, 235, 230)
+  ); */
+  /* background: linear-gradient(to right, rgb(168, 204, 211), rgb(149, 136, 117)); */
+}
+body {
+  height: 100dvh;
+  font-family: "Noto Serif Display", serif;
+  background: linear-gradient(to right, rgb(168, 204, 211), rgb(149, 136, 117));
+}
