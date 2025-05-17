@@ -42,9 +42,6 @@ function Header() {
   return (
     <>
       <nav
-        data-aos="fade-down"
-        data-aos-easing="linear"
-        data-aos-duration="1200"
         className={`sticky top-0 left-0 w-full z-10  transition-colors duration-300 ${
           scrolled
             ? darkMode

@@ -9,6 +9,9 @@ import nodejs from "./nodejs-removebg-preview.png";
 import photoshop from "./photoshop-removebg-preview.png";
 import react from "./react-removebg-preview.png";
 import tailwind from "./taiwind-removebg-preview.png";
+import MilkTeaShop from "./MilkTeaShop.png";
+import foolDev from "./foolDev.png";
+import DatMonTaiBan from "./DatMonTaiBan.png";
 
 export const assetList = {
   react,
@@ -22,6 +25,9 @@ export const assetList = {
   photoshop,
   canva,
   figma,
+  MilkTeaShop,
+  foolDev,
+  DatMonTaiBan,
 };
 
 export const skillList = [

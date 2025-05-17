@@ -1,7 +1,7 @@
 import "./style.css";
 function Loading() {
   return (
-    <section>
+    <section className=" overflow-hidden">
       <div class="cube">
         <div class="face front"></div>
         <div class="face back"></div>
