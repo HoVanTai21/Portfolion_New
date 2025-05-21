@@ -11,7 +11,7 @@ function KyNang() {
     });
   }, []);
   return (
-    <section className="my-8 mb-12 p-10 px-4 md:px-10">
+    <section id="skills" className="my-8 mb-12 p-10 px-4 md:px-10">
       <h2
         data-aos="fade-right"
         data-aos-delay="300"

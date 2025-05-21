@@ -24,6 +24,7 @@ function DuAn() {
 
   return (
     <div
+      id="projects"
       className="relative w-full min-h-screen overflow-hidden "
       onMouseMove={handleMouseMove}
       style={{ perspective: "10000px" }}

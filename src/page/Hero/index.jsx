@@ -49,7 +49,7 @@ function Hero() {
   return (
     <>
       {/* Gradient Squares Background */}
-      <div className="absolute inset-0 z-1 overflow-hidden">
+      <div id="home" className="absolute inset-0 z-1 overflow-hidden">
         {/* Square 1 */}
         <div className="absolute w-56 h-56 sm:w-72 sm:h-72  opacity-50 rounded-[20%] left-[3%] top-[-21%] animate-moveX">
           <div

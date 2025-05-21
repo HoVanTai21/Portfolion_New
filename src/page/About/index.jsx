@@ -14,7 +14,7 @@ function About() {
   }, []);
 
   return (
-    <section className="my-8 mb-12 p-10 px-6 md:px-12">
+    <section id="about" className="my-8 mb-12 p-10 px-6 md:px-12">
       <h2
         data-aos="fade-right"
         className="text-3xl dark:text-white text-center md:text-start sm:text-4xl md:text-5xl font-semibold text-red-900 mb-10"
